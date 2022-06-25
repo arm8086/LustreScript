@@ -10,5 +10,11 @@ function f() {
 }
 kprint("This will become bootable")
 ```
+```
+use <stdio.h>
+printf("Hi!\n")
+```
 Semicolons are added if there aren't any
 "use" gets replaced by "#include"
+<> is used if the library is in C
+"" is used if the library is part of LS
